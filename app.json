@@ -1,0 +1,12 @@
+{
+  "name": "reView",
+  "displayName": "reView",
+  "expo": {
+    "name": "reView",
+    "slug": "reView",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
